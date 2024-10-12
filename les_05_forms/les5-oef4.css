@@ -1,0 +1,36 @@
+body    {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.labelm{
+    margin-top: 20px;
+}
+
+
+input[type="text"]{
+    font-size: 20px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px;
+    width: 20%;
+    background-color: orangered;
+}
+
+select{
+    font-size: 20px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px;
+    width: 20.1%;
+    background-color: orangered;
+}
+
+option{
+    background-color: rgb(234, 178, 157);
+}
+
+input[type="submit"]{
+    font-size: 20px;
+    box-shadow: 5px 5px;
+    width: 20.1%;
+    background-color: orangered;
+}

@@ -1,0 +1,30 @@
+body{
+    color: #082433;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1  {
+    padding: 0;
+    margin: 0;
+    font-size: 2em;
+    color: #ed6338;
+}
+h2  {
+    margin: 0;
+    padding-top: 10;
+    font-size: 1,5em;
+    color: #082433;
+}
+.logo {
+    width: 200px;
+    margin: 20px;
+
+}
+
+a {
+    color: #082433;
+}
+
+a:hover {
+    color: #ed6338;
+}

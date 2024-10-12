@@ -1,0 +1,20 @@
+p:hover {
+    background-color: rgb(167, 167, 75);
+}
+
+a:hover{
+    background-color: pink;
+}
+
+a:link{
+    color: red;
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+
+

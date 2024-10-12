@@ -1,0 +1,12 @@
+body    {
+    background-color: grey;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    border: 10px solid #ffff;
+    border-radius: 50px;
+    padding: 5px    ;
+    margin: 50px;
+}

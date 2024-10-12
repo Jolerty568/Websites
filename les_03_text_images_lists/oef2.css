@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: #ed6338;
+}
+hr {
+    border: 1px solid #082433;
+}
+
+img {
+    border-radius: 5%;
+    margin: 15px;
+    float: left;
+    opacity: 0.5;
+}
+img:hover {
+    opacity: 1;
+}

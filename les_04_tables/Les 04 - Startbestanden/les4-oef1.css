@@ -1,0 +1,25 @@
+hr{
+    border: 1px solid #00283c;
+}
+
+#entiteit   {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    padding: 15px;
+    border: 1px solid gray;
+}
+
+th {
+    color: white;
+    background-color: #00283c;
+}
+
+caption {
+    caption-side: bottom;
+}
+
+

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="les5-oef5.css">
+</head>
+<body>
+    
+    <form action="https://tm-statweb.be/forms.php" method="get">
+        <div>
+            <label for="Voornaam">Voornaam:</label>
+        </div>
+        <div>
+            <input type="text" name="Voornaam">
+        </div>
+        <div>
+            <label for="Familienaam">Familienaam:</label>
+        </div>
+        <div>
+            <input type="text" name="Familienaam">
+        </div>
+        <div>
+            <label for="Adres">Adres:</label>
+        </div>
+        <div>
+            <input type="text" name="Adres">
+        </div>
+        <div>
+            <label for="Provincie">Provincie:</label>
+        </div>
+        <div>
+            <select name="Provincie" value="Limb">
+                <option value="Antw">Antwerpen</option>
+                <option value="Limb" selected>Limburg</option>
+                <option value="OV">Oost-Vlaanderen</option>
+                <option value="VB">Vlaams-Brabant</option>
+                <option value="WV">West-Vlaanderen</option>
+                <option value="Hene">Henegouwen</option>
+                <option value="Luik">Luik</option>
+                <option value="Lux">Luxemburg</option>
+                <option value="Namen">Namen</option>
+                <option value="WB">Waals-Brabant</option>
+            </select>
+        </div>
+        <div>
+            <fieldset>
+                <legend>Geslacht</legend>
+                <label for="Man">Man</label>
+                <input type="radio" name="geslacht">
+                <label for="Man">Vrouw</label>
+                <input type="radio" name="geslacht">
+                <label for="Ander">Ander</label>
+                <input type="radio" name="geslacht">
+            </fieldset>
+        </div>
+        <div>
+            <label for="foto">foto</label>
+            <input type="file">
+        </div>
+        <div>
+            <label for="Bevestig">Ik ga akkoord met de algemene voorwaarden</label>
+            <input type="button" name="Bevestig">
+        </div>
+        <div>
+            <input type="submit" value="Registreren">
+        </div>
+
+
+    </form>
+
+
+
+
+</body>
+</html>

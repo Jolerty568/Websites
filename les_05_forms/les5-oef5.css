@@ -1,0 +1,32 @@
+body
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.2;
+}
+
+form
+{
+    width: 20%;
+}
+
+fieldset
+{
+    box-shadow: 2px 2px lightgray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input[type="text"]
+{
+    margin-bottom: 20px;
+}
+
+input[type="text"]
+{
+    background-color: lightyellow;
+}
+
+input[type="file"]
+{
+    margin-bottom: 20px;
+}

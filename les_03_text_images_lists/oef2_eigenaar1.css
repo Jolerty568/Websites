@@ -1,0 +1,20 @@
+h1 {
+    color: #ed6338;
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+}
+
+a {
+    color: #082433;
+
+}
+
+a:hover {
+    color: #ed6338;
+}
+
+
+div {
+    padding: 15px;
+}   

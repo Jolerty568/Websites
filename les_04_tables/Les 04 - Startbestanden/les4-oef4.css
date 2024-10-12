@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Handwritten;
+    src: url(QwitcherGrypen-Regular.ttf);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+h1  {
+    color: #ff8654;
+}
+
+table   {
+    border: 1px solid lightgray;
+    text-align: center;
+    border-collapse: collapse;
+}
+caption {
+    font-size: small;
+    caption-side: bottom;
+    padding: 10px;
+}
+#bold   {
+    font-weight: bold;
+}
+
+#image  {
+    width: 150px;
+}
+
+td, th  {
+    border: 1px solid lightgray;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 50px;
+}
+
+.startdag   {
+    font-family: Handwritten;
+    font-size: 32px;
+    background-color: #ff8654;
+    color: white;
+}

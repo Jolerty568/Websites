@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #082433;
+}
+
+.logo {
+    width: 200px;
+    
+}
+
+hr {
+    border: 1px solid #082433;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    font-size: 2em;
+    color: #ed6338;
+}
+
+p {
+    margin: 0;
+    padding: 15px;
+}
+
+a:hover {
+    color: #ed6338;
+}
+
+a{
+    text-decoration: underline; 
+}
+
+.container{
+    background-color: #082433;
+    height: 100px;
+}
+.logoWit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+
