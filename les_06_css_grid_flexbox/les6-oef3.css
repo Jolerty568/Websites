@@ -1,0 +1,61 @@
+body{
+    font-size: 30px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 60vh;
+}
+
+.flex-container > div {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    height: 60%;
+}
+
+.rij1{
+    width: 30.6%;
+}
+
+.rij2 {
+    width: 22.3%;
+}
+.rij3{
+    width: 47.3%;
+}
+
+.blauw{
+    background-color: blue;
+}
+
+.roze{
+    background-color: magenta;
+}
+.groen{
+    background-color: green;
+}
+.geel{
+    background-color: yellow;
+}
+.rood{
+    background-color: red;
+}
+.paars{
+    background-color: purple;
+}
+.lichtgroen{
+    background-color: lightgreen;
+}
+.donkerblauw{
+    background-color: darkblue;
+}
+.olive{
+    background-color: olive;
+}
+
+.grid{
+    display: grid;
+}
